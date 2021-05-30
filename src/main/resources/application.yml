@@ -19,4 +19,4 @@ spring:
 
 application:
   description: Project developed during the Santander Dev Week | Full Stack
-  version: 1.0
+  version: 2.0
